@@ -90,5 +90,5 @@ Mi objetivo siempre es entregar código limpio, escalable y fácil de mantener.
 ## 📫 Contacto
 
 Estoy abierto a colaborar en proyectos desafiantes y oportunidades como desarrollador Backend.
-
+- <b>d12sebastian21@gmail.com</b>
 ¡Gracias por visitar mi perfil!
